@@ -1,0 +1,24 @@
+E:\The Dark Below\Temp\bin\Debug\Assembly-CSharp.dll
+E:\The Dark Below\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\The Dark Below\Temp\bin\Debug\UnityEditor.dll
+E:\The Dark Below\Temp\bin\Debug\UnityEngine.dll
+E:\The Dark Below\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\The Dark Below\Temp\bin\Debug\UnityEngine.UI.dll
+E:\The Dark Below\Temp\bin\Debug\Mono.Cecil.dll
+E:\The Dark Below\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\The Dark Below\Temp\bin\Debug\Unity.DataContract.dll
+E:\The Dark Below\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\The Dark Below\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\The Dark Below\Temp\bin\Debug\Unity.CecilTools.dll
+E:\The Dark Below\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\The Dark Below\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\The Dark Below\Temp\bin\Debug\UnityEngine.xml
+E:\The Dark Below\Temp\bin\Debug\UnityEditor.xml
+E:\The Dark Below\Temp\bin\Debug\UnityEngine.UI.xml
+E:\The Dark Below\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\The Dark Below\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\The Dark Below\obj\Debug\Assembly-CSharp.dll
+E:\The Dark Below\obj\Debug\Assembly-CSharp.pdb
+C:\Users\matthew.jones\Documents\Bobby'sWork\Josh's Stuff\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\matthew.jones\Documents\Bobby'sWork\Josh's Stuff\obj\Debug\Assembly-CSharp.dll
+C:\Users\matthew.jones\Documents\Bobby'sWork\Josh's Stuff\obj\Debug\Assembly-CSharp.pdb
